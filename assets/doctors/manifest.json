@@ -1,0 +1,90 @@
+{
+  "d1": {
+    "credit": {
+      "doctorId": "d1",
+      "pexelsId": 19438563,
+      "photographer": "Oys Photography",
+      "page": "https://www.pexels.com/photo/doctor-19438563/"
+    },
+    "avatar": "d1-avatar.webp",
+    "cutout": "d1-cutout.webp",
+    "cutoutAspect": 0.7409
+  },
+  "d2": {
+    "credit": {
+      "doctorId": "d2",
+      "pexelsId": 33067699,
+      "photographer": "KAWENY DENYELE",
+      "page": "https://www.pexels.com/photo/smiling-female-doctor-in-white-coat-33067699/"
+    },
+    "avatar": "d2-avatar.webp",
+    "cutout": "d2-cutout.webp",
+    "cutoutAspect": 0.741
+  },
+  "d3": {
+    "credit": {
+      "doctorId": "d3",
+      "pexelsId": 6129500,
+      "photographer": "RDNE Stock project",
+      "page": "https://www.pexels.com/photo/portrait-of-a-doctor-6129500/"
+    },
+    "avatar": "d3-avatar.webp",
+    "cutout": "d3-cutout.webp",
+    "cutoutAspect": 0.741
+  },
+  "d4": {
+    "credit": {
+      "doctorId": "d4",
+      "pexelsId": 19596247,
+      "photographer": "MARTINS JOHN",
+      "page": "https://www.pexels.com/photo/portrait-of-smiling-black-woman-doctor-in-medical-robe-19596247/"
+    },
+    "avatar": "d4-avatar.webp",
+    "cutout": "d4-cutout.webp",
+    "cutoutAspect": 0.741
+  },
+  "d5": {
+    "credit": {
+      "doctorId": "d5",
+      "pexelsId": 12660379,
+      "photographer": "Jrfotosgrand Fotografia",
+      "page": "https://www.pexels.com/photo/portrait-of-a-doctor-12660379/"
+    },
+    "avatar": "d5-avatar.webp",
+    "cutout": "d5-cutout.webp",
+    "cutoutAspect": 0.74
+  },
+  "d6": {
+    "credit": {
+      "doctorId": "d6",
+      "pexelsId": 19963165,
+      "photographer": "Tessy Agbonome",
+      "page": "https://www.pexels.com/photo/smiling-doctor-portrait-19963165/"
+    },
+    "avatar": "d6-avatar.webp",
+    "cutout": "d6-cutout.webp",
+    "cutoutAspect": 0.7411
+  },
+  "d7": {
+    "credit": {
+      "doctorId": "d7",
+      "pexelsId": 32205061,
+      "photographer": "Daniil Kondrashin",
+      "page": "https://www.pexels.com/photo/portrait-of-confident-young-doctor-with-stethoscope-32205061/"
+    },
+    "avatar": "d7-avatar.webp",
+    "cutout": "d7-cutout.webp",
+    "cutoutAspect": 0.741
+  },
+  "d8": {
+    "credit": {
+      "doctorId": "d8",
+      "pexelsId": 38618421,
+      "photographer": "Hiếu Lê",
+      "page": "https://www.pexels.com/photo/professional-doctor-in-white-coat-with-stethoscope-38618421/"
+    },
+    "avatar": "d8-avatar.webp",
+    "cutout": "d8-cutout.webp",
+    "cutoutAspect": 0.74
+  }
+}
